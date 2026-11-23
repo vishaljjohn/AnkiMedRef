@@ -1,5 +1,7 @@
 # AnkiMedRef — Medical Quick Reference for Anki
 
+Made by [Vishal John](https://github.com/vishaljjohn) and [Agboade](https://github.com/a0so99).
+
 An Anki add-on (v8.26) that shows a quick-reference tooltip when you hover over a medical term on a card during review. It covers abbreviations, drugs and drug classes, lab ranges, diseases, microbiology, scoring systems, anatomy, ECG, genetics, radiology, pathology, signs and symptoms, OB/GYN, primary care, and more.
 
 Lookups are tried in this order:
@@ -45,3 +47,10 @@ None are needed. The UMLS and OMIM fields in `config.json` are empty by default.
 ## Reference guide
 
 `Medical_Quick_Reference_Guide.docx` gives an overview of the add-on and what it covers.
+
+## Authors
+
+- **Vishal John** ([@vishaljjohn](https://github.com/vishaljjohn))
+- **Agboade** ([@a0so99](https://github.com/a0so99))
+
+AnkiMedRef was built together by both authors.

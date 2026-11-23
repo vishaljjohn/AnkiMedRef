@@ -1,5 +1,6 @@
 # ─────────────────────────────────────────────────────────────────────────────
 #  Anki Add-on: Medical Quick Reference  v8.26
+#  Authors: Vishal John (github.com/vishaljjohn) and Agboade (github.com/a0so99)
 #
 #  NEW in v8.26 (efficiency):
 #    - Network lookups are skipped once you've hovered another word (they
