@@ -45,7 +45,3 @@ None are needed. The UMLS and OMIM fields in `config.json` are empty by default.
 ## Reference guide
 
 `Medical_Quick_Reference_Guide.docx` gives an overview of the add-on and what it covers.
-
-## Disclaimer
-
-This add-on is a study aid for medical education. It is not a substitute for clinical judgment or authoritative references, and it must not be used for patient care decisions.
