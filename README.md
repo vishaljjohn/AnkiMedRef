@@ -49,6 +49,6 @@ None are needed. The UMLS and OMIM fields in `config.json` are empty by default.
 ## Authors
 
 - **Vishal John** ([@vishaljjohn](https://github.com/vishaljjohn))
-- **Agboade** ([@a0so99](https://github.com/a0so99))
+- **Agboade Sobowale** ([@a0so99](https://github.com/a0so99))
 
 AnkiMedRef was built together by both authors.
